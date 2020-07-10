@@ -11,3 +11,9 @@ ingesting various data sources and turn this data into a useful information.
 * simple and intuitive web interface
 * recommend when is the best time to buy
 * recommend when is the best time to sell
+
+## develop
+gradle 6.5.1
+```
+export JAVA_HOME=/usr/lib/jvm/jdk-11.0.7/
+```
