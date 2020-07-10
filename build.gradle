@@ -1,0 +1,62 @@
+
+plugins {
+  id 'maven'
+  id 'war'
+  id 'eclipse-wtp'
+  id 'org.gretty' version '2.2.0'
+}
+
+sourceCompatibility = 11
+
+group 'ch.weetech'
+project.webAppDirName = 'web'
+description = 'crypto system'
+
+
+repositories {
+    jcenter()
+    maven { url 'https://jitpack.io' }
+    mavenCentral()
+}
+
+eclipse {
+    classpath {
+        downloadJavadoc = true
+        downloadSources = true
+    }
+}
+
+// https://docs.gradle.org/current/userguide/userguide_single.html
+dependencies {
+    implementation 'org.apache.logging.log4j:log4j-core:2.13.3'
+
+    implementation 'mysql:mysql-connector-java:8.0.20'
+    implementation 'com.google.code.gson:gson:2.8.6'
+    implementation 'javax.mail:javax.mail-api:1.6.2'
+    implementation 'com.sun.mail:javax.mail:1.6.2'
+    implementation 'javax.servlet:jstl:1.2'
+
+
+    // libs that cannot be locate in maven
+    // TODO how to include source reference in the bin jar?
+    compile fileTree(dir: 'libs', include: ['*.jar'], exclude: ['*sources.jar'])
+
+    // https://mvnrepository.com/artifact/org.apache.tomcat/tomcat-catalina
+    //compileOnly 'org.apache.tomcat:tomcat-catalina:9.0.10'
+    compileClasspath 'org.apache.tomcat:tomcat-catalina:9.0.17'
+
+
+    // https://mvnrepository.com/artifact/javax.servlet.jsp/javax.servlet.jsp-api
+    testImplementation 'javax.servlet.jsp:javax.servlet.jsp-api:2.3.3'
+    testImplementation 'junit:junit:4.13'
+    testImplementation 'org.mockito:mockito-core:3.3.3'
+    // https://mvnrepository.com/artifact/com.github.tomakehurst/wiremock
+    testImplementation 'com.github.tomakehurst:wiremock:2.27.1'
+
+}
+
+configurations {
+    jar.archiveName = 'crypto-system.jar'
+}
+
+
