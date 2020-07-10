@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="output" path="bin/default"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11/"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-catalina/9.0.17/6401797ff7edb9f89465b2a355651214810923f4/tomcat-catalina-9.0.17-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-catalina/9.0.17/f204d52a7cbb6cb6ad7dfe8b0780e0b081c9cbec/tomcat-catalina-9.0.17.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.1.0/ab3976d4574c48d22dc1abf6a9e8bd0fdf928223/javax.servlet-api-3.1.0-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.1.0/3cd63d075497751784b2fa84be59432f4905bf7c/javax.servlet-api-3.1.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.1.0/7898c2d7d0779c852dea51cb75a446eeb932eb1b/javax.servlet-api-3.1.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/javax.websocket/javax.websocket-api/1.0/107b0fdc7ca320b54dc1393e01585be5883ff348/javax.websocket-api-1.0-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/javax.websocket/javax.websocket-api/1.0/fc843b649d4a1dcb0497669d262befa3918c7ba8/javax.websocket-api-1.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/javax.websocket/javax.websocket-api/1.0/8aa4533fdb53724128633cdf0b184cd69c2e0714/javax.websocket-api-1.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.13.3/e9d59a9a974a2a8e4749b996710e9c5a38ea2eba/log4j-core-2.13.3-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.13.3/4e857439fc4fe974d212adaaaa3b118b8b50e3ec/log4j-core-2.13.3.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.13.3/df041db18ea9f1da8b13cdb48e6991a4628a30e6/log4j-core-2.13.3-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/8.0.20/ff9bfa6bfe16bf3318144cbe6a6ca5a0953909e3/mysql-connector-java-8.0.20-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/mysql/mysql-connector-java/8.0.20/d8d388e71c823570662a45dd33f4284141921280/mysql-connector-java-8.0.20.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.6/1b9adea7bbe0b251818f42fde0bd2988d7e5f20a/gson-2.8.6-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.6/9180733b7df8542621dc12e21e87557e8c99b8cb/gson-2.8.6.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.6/6ca9f0d9c6cde89d811e4329c5f0c1225b4a8d0a/gson-2.8.6-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/javax.mail/javax.mail-api/1.6.2/d29b882add0b3fefb9c06958da53912176b2daf1/javax.mail-api-1.6.2-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/javax.mail/javax.mail-api/1.6.2/17a8151bab44f9c94f34c10db70d95ba3c830eda/javax.mail-api-1.6.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/javax.mail/javax.mail-api/1.6.2/68ae7f3592c6606b81a88c162e3a13c9930361b6/javax.mail-api-1.6.2-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/com.sun.mail/javax.mail/1.6.2/f74a1213edad69087c1f8829ca7c68adcce35942/javax.mail-1.6.2-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/com.sun.mail/javax.mail/1.6.2/935151eb71beff17a2ffac15dd80184a99a0514f/javax.mail-1.6.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/com.sun.mail/javax.mail/1.6.2/3cf2c44de42efc993e0e837348823d4fa9f6391/javax.mail-1.6.2-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/javax.servlet/jstl/1.2/2f5877ef15adb721421e80f5aa2b6fe069eec8ed/jstl-1.2-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/javax.servlet/jstl/1.2/74aca283cd4f4b4f3e425f5820cda58f44409547/jstl-1.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-jsp-api/9.0.17/bb6db6c7746fc70c28444836231fc6f92670520c/tomcat-jsp-api-9.0.17-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-jsp-api/9.0.17/991150fcb790af67b6930189776107e7b54c93d6/tomcat-jsp-api-9.0.17.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-util-scan/9.0.17/5afea8edc965995d99858ec66fa804cd6e7e8424/tomcat-util-scan-9.0.17-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-util-scan/9.0.17/c085933b21b050d9654b3a7d87a56acfdf844dba/tomcat-util-scan-9.0.17.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-api/9.0.17/616fe5dd948d9d21fe242d6ab4f5fea0fd53c4ac/tomcat-api-9.0.17-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-api/9.0.17/1bce4d14cd13d8946edeb68c42c4f81307550116/tomcat-api-9.0.17.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/9.0.17/768f918602110275995dec502778204ac30ab538/tomcat-coyote-9.0.17-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-coyote/9.0.17/9bfa93c767f46ccb8da5758ddb519d5a7e878bc6/tomcat-coyote-9.0.17.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-servlet-api/9.0.17/77b641dd0ec70d31a3a36618f8f3dc3f9e147947/tomcat-servlet-api-9.0.17-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-servlet-api/9.0.17/4638823dd255cbbd3f09e3c5b17dca96ec6f24e8/tomcat-servlet-api-9.0.17.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-util/9.0.17/f492b5402a46eb81b394f3014822cfd6483ca35e/tomcat-util-9.0.17-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-util/9.0.17/1fe52a285413c7c0c6432603b5c07719cb4907d5/tomcat-util-9.0.17.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-juli/9.0.17/a74eb0041f2eb8d0e088ebd3fc1f780bab939a2e/tomcat-juli-9.0.17-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-juli/9.0.17/ae741bfb012ad8c0687b6af4646b22150dd70395/tomcat-juli-9.0.17.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-annotations-api/9.0.17/c31da39c2f80e6145fcd352c94a944d4fd4b571/tomcat-annotations-api-9.0.17-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-annotations-api/9.0.17/1b68be475a95a18d003744b0eed5f0ddfd2398f4/tomcat-annotations-api-9.0.17.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-jni/9.0.17/6f72beedefabe2f1b5e2081b7e7f7cb54507c075/tomcat-jni-9.0.17-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-jni/9.0.17/aabf1b321344002bb1becd85bcb0d0bdba5b2f19/tomcat-jni-9.0.17.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-jaspic-api/9.0.17/7e86710c5c4c7c8eb284b8583d7ed1f80132bd10/tomcat-jaspic-api-9.0.17-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-jaspic-api/9.0.17/6d4f1261199ec83b1366c585ab0d5098270ac391/tomcat-jaspic-api-9.0.17.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.13.3/735efba8bfdacf25716fa1e2e82f57b2837f8300/log4j-api-2.13.3-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.13.3/ec1508160b93d274b1add34419b897bae84c6ca9/log4j-api-2.13.3.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.13.3/e2b704af62b7d4c73ab46d6ecb9bce43d3a80cad/log4j-api-2.13.3-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/3.6.1/b0782bcd21ad5c52031e74efbc4c3d6a6df96130/protobuf-java-3.6.1-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/3.6.1/d06d46ecfd92ec6d0f3b423b4cd81cb38d8b924/protobuf-java-3.6.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/com.google.protobuf/protobuf-java/3.6.1/15540aa7434fcfa6d329bcd8a27b95e7c3b172bf/protobuf-java-3.6.1-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/javax.activation/activation/1.1/3697e9f67a2ed7ac5f589cff30f21173299440/activation-1.1-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/javax.activation/activation/1.1/e6cb541461c2834bdea3eb920f1884d1eb508b50/activation-1.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-el-api/9.0.17/e3c49cda4d91e2cdea7ec3635a9d3990d030b946/tomcat-el-api-9.0.17-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-el-api/9.0.17/f01b8477a1c8409caf55b5a6a970e6dee741cdeb/tomcat-el-api-9.0.17.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/com.github.tomakehurst/wiremock/2.27.1/63d7189476e87acd15d28291ed015d2f85823171/wiremock-2.27.1-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/com.github.tomakehurst/wiremock/2.27.1/e90edc7fec9113ce8cae92fbce7230371d12afc0/wiremock-2.27.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/com.github.tomakehurst/wiremock/2.27.1/8669683095ae7eca1d3cf60742fa604c2e71db7e/wiremock-2.27.1-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-webapp/9.2.28.v20190418/db7cf98fbff2b36c1927cf472618ab1ffa98d6b6/jetty-webapp-9.2.28.v20190418-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-webapp/9.2.28.v20190418/c55fc40b7f018f28fd282eb51547c6ae5732d076/jetty-webapp-9.2.28.v20190418.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-webapp/9.2.28.v20190418/f8466c5a5b1035045b702805840babb544c60034/jetty-webapp-9.2.28.v20190418-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-servlet/9.2.28.v20190418/2f01f1c829ac1a2028a298768f2aee4faa317170/jetty-servlet-9.2.28.v20190418-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-servlet/9.2.28.v20190418/b5b9b1ecfb25fde34d34871fc1d4b00073a6eae5/jetty-servlet-9.2.28.v20190418.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-servlet/9.2.28.v20190418/97372f7d47c50f50c877deebb9c664949651579f/jetty-servlet-9.2.28.v20190418-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-security/9.2.28.v20190418/81d3dcde090b03e7e87acb811e57756ba8544e9a/jetty-security-9.2.28.v20190418-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-security/9.2.28.v20190418/3deb2b085d0d3e73ad8ca7aabf0e34504b77114e/jetty-security-9.2.28.v20190418.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-security/9.2.28.v20190418/831140b3f8f1135cd5f39de1575be197c8514da9/jetty-security-9.2.28.v20190418-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-server/9.2.28.v20190418/714d1e7edf387aa3182a643d424c6f6fabb0591/jetty-server-9.2.28.v20190418-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-server/9.2.28.v20190418/a6064a590340d4a19d9209d527f2b1ee2592bbe9/jetty-server-9.2.28.v20190418.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-server/9.2.28.v20190418/26d2c1d63084788133b16e3a3ed09ad5e08abf7c/jetty-server-9.2.28.v20190418-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/javax.servlet.jsp/javax.servlet.jsp-api/2.3.3/2fb60d849b2ed487a5655e1fa55686ce47b48d60/javax.servlet.jsp-api-2.3.3-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/javax.servlet.jsp/javax.servlet.jsp-api/2.3.3/81191ab80e342912dc9cea735c30ff4eddc64de3/javax.servlet.jsp-api-2.3.3.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/javax.servlet.jsp/javax.servlet.jsp-api/2.3.3/4181e79314ccc7be2945702accbff1b7019d7c26/javax.servlet.jsp-api-2.3.3-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/junit/junit/4.13/d10a9c3acc6c07a5700e37697b5a6b4dcfb8abf9/junit-4.13-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/junit/junit/4.13/e49ccba652b735c93bd6e6f59760d8254cf597dd/junit-4.13.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/junit/junit/4.13/17ed6c7dd587f52c9e7894964eff6a880f0658a/junit-4.13-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/3.3.3/cd917802078ffceaa508aa75af70ef62aed20d22/mockito-core-3.3.3-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/3.3.3/4878395d4e63173f3825e17e5e0690e8054445f1/mockito-core-3.3.3.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/3.3.3/737aefe08b2061a31777871711eeafb6185da1b/mockito-core-3.3.3-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/1dc37250fbc78e23a65a67fbbaf71d2e9cbc3c0b/hamcrest-core-1.3-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/ad09811315f1d4f5756986575b0ea16b99cd686f/hamcrest-core-1.3-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy/1.10.5/c83fb156497e41c9c1131762f86d320d75fe9375/byte-buddy-1.10.5-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy/1.10.5/d39f2a6c7a3550e03fb12a870e0829b0fa87f036/byte-buddy-1.10.5.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy/1.10.5/f426f6b084e31127594ddd5c545bf898d6c3363c/byte-buddy-1.10.5-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy-agent/1.10.5/2c64eeb6c4d0e4bd58b3976f1a44d0007367114d/byte-buddy-agent-1.10.5-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy-agent/1.10.5/d1c949ee74c3421ffd3d9159c867777ded928448/byte-buddy-agent-1.10.5.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy-agent/1.10.5/b3de41e0877691a3a00dc9b24a3cda86bc2d19ff/byte-buddy-agent-1.10.5-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/2.6/96614f514a1031296657bf0dde452dc15e42fcb8/objenesis-2.6-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/2.6/639033469776fd37c08358c6b92a4761feb2af4b/objenesis-2.6.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/org.objenesis/objenesis/2.6/27c490ca18fcdfb94e28387e04ae37c4aa1abb23/objenesis-2.6-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-servlets/9.2.28.v20190418/277273ce33ab526c4e62a4c2196dd85de3c7b87/jetty-servlets-9.2.28.v20190418-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-servlets/9.2.28.v20190418/c31256a26ce3527058ae96f0b5f780c9462f469f/jetty-servlets-9.2.28.v20190418.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-servlets/9.2.28.v20190418/7ec6cfded3a5cb0e9cb7ac05e718513bb5afa283/jetty-servlets-9.2.28.v20190418-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-proxy/9.2.28.v20190418/f76b0e3d97c49f3a096b670181c88ef6cf22a226/jetty-proxy-9.2.28.v20190418-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-proxy/9.2.28.v20190418/59a0e3703d380ff6a28b702cd8a33f8b405909f8/jetty-proxy-9.2.28.v20190418.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-proxy/9.2.28.v20190418/5f65a69b67cac34b956bc52c76097a3b775fc76e/jetty-proxy-9.2.28.v20190418-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/20.0/9c8493c7991464839b612d7547d6c263adf08f75/guava-20.0-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/20.0/89507701249388e1ed5ddcf8c41f4ce1be7831ef/guava-20.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/20.0/fcf063ba2bcd1f6866d09feeef65a181bf32da0d/guava-20.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.11.0/8f3dba92b2f979fd859ce2eda9e1cf8bacf5cc91/jackson-databind-2.11.0-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.11.0/8f5aaf3878b0647ff3a16610af53b1a5c05d9f15/jackson-databind-2.11.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.11.0/d56a46c6d1b6a8e237fd8274fc61f23d97ebca4/jackson-databind-2.11.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.11.0/db11b8a7990ea15aae03e842c42475771926ea5d/jackson-core-2.11.0-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.11.0/f84302e14648f9f63c0c73951054aeb2ff0b810a/jackson-core-2.11.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.11.0/5cc1f13a9ef4e6cde54ba18f947743be7e09121a/jackson-core-2.11.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.11.0/1e90e40f81ac3a9b2f78061bea06c0a8606ddb8c/jackson-annotations-2.11.0-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.11.0/c626020ae55d19c690d25cb51c1532ba76e5890f/jackson-annotations-2.11.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.11.0/bcee14ef63a6db9802aa1ba845a007fd8eb743d5/jackson-annotations-2.11.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.12/f899c33d48d6d513ddda79441b4ba90643f19f8/httpclient-4.5.12-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.12/4023a2a80b64c25926911faf350b50cd2a29220f/httpclient-4.5.12.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.12/fd974f288a1a194e6b39345b23c6f81815e3beff/httpclient-4.5.12-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.xmlunit/xmlunit-legacy/2.7.0/e3ac19933db9bbad9520ce43ecea143687eeba99/xmlunit-legacy-2.7.0-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.xmlunit/xmlunit-legacy/2.7.0/7024ba0e61bc62fd6b32f6ca4ef79671b04282e2/xmlunit-legacy-2.7.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/org.xmlunit/xmlunit-legacy/2.7.0/b6baadf3d0b2b4af87634b56b81c300d252e242c/xmlunit-legacy-2.7.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.xmlunit/xmlunit-placeholders/2.7.0/bc62ac62b2d1a25321b8631e5181a63d5ad9b2e4/xmlunit-placeholders-2.7.0-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.xmlunit/xmlunit-placeholders/2.7.0/78829a54bffbe77b90c6c30196048554906eecd0/xmlunit-placeholders-2.7.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/org.xmlunit/xmlunit-placeholders/2.7.0/e171d45d94a7d206ab8f76a7d034449af001ea56/xmlunit-placeholders-2.7.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.xmlunit/xmlunit-core/2.7.0/70c050a7709f32ffe75078135531afa9bf7ca342/xmlunit-core-2.7.0-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.xmlunit/xmlunit-core/2.7.0/4d014eac96329c70175116b185749765cee0aad5/xmlunit-core-2.7.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/org.xmlunit/xmlunit-core/2.7.0/14a0e9facea184c320fe2c8765b73681bba4d3c5/xmlunit-core-2.7.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/com.jayway.jsonpath/json-path/2.4.0/c43fc506196089da87a7bb36ec847b57072a818b/json-path-2.4.0-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/com.jayway.jsonpath/json-path/2.4.0/765a4401ceb2dc8d40553c2075eb80a8fa35c2ae/json-path-2.4.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/com.jayway.jsonpath/json-path/2.4.0/dcaf0ab878bffa45f5dee15a1bb6761df526c215/json-path-2.4.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/7.0/1e0eab03ec196dea229ea637e523b9c016e66b42/asm-7.0-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/7.0/d74d4ba0dee443f68fb2dcb7fcdb945a2cd89912/asm-7.0.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/7.0/f8319aca10715668cc3b7e52a1327b073daf389b/asm-7.0-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/com.github.jknack/handlebars-helpers/4.0.7/f9555ebf59d22bedc2a99d82c896e26d453ab043/handlebars-helpers-4.0.7-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/com.github.jknack/handlebars-helpers/4.0.7/5eba0793c371aef6656e05f880beced1f152e0b7/handlebars-helpers-4.0.7.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/com.github.jknack/handlebars-helpers/4.0.7/9141a706dfa2899760a68ec21256f8f0dd48cad9/handlebars-helpers-4.0.7-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/com.github.jknack/handlebars/4.0.7/940bf0246d090b8b702eafe03aa17e191258ee42/handlebars-4.0.7-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/com.github.jknack/handlebars/4.0.7/98489d468d97297e9a363f2119bd0b20ad9bed67/handlebars-4.0.7.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/com.github.jknack/handlebars/4.0.7/d2f3e7384bedf045194f35231786939a4f2a69/handlebars-4.0.7-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/962153db4a9ea71b79d047dfd1b2a0d80d8f4739/slf4j-api-1.7.25-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/da76ca59f6a57ee3102f8f9bd9cee742973efa8a/slf4j-api-1.7.25.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/f003e89ddebdbaca5cf3fc7cc0c67c88c2ca1a3c/slf4j-api-1.7.25-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/5.0.3/36d4348605fd4605d36c8641495f3e78756e454b/jopt-simple-5.0.3-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/5.0.3/cdd846cfc4e0f7eefafc02c0f5dce32b9303aa2a/jopt-simple-5.0.3.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/net.sf.jopt-simple/jopt-simple/5.0.3/e1daf4f0bf1b85eb69b0b9d82d05f5842c77559f/jopt-simple-5.0.3-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.7/e7e36219edde1c66c93495a75490d8f526c377cb/commons-lang3-3.7-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.7/557edd918fd41f9260963583ebf5a61a43a6b423/commons-lang3-3.7.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.7/8d6fb4d39bedef08da171550c73b5d84e8c1125/commons-lang3-3.7-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/com.flipkart.zjsonpatch/zjsonpatch/0.4.4/bd8ebfb6db98121cbedb5d73aa273f6e3ae89b68/zjsonpatch-0.4.4-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/com.flipkart.zjsonpatch/zjsonpatch/0.4.4/d46c5b83f457c5ba48b630da59f648caa89ee19e/zjsonpatch-0.4.4.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/com.flipkart.zjsonpatch/zjsonpatch/0.4.4/37f1efd11a537ac8b16b0d13b2dbc489d7127b4/zjsonpatch-0.4.4-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/commons-fileupload/commons-fileupload/1.4/d50ee98902746c6a351662fa8b728189d1a30e90/commons-fileupload-1.4-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/commons-fileupload/commons-fileupload/1.4/f95188e3d372e20e7328706c37ef366e5d7859b0/commons-fileupload-1.4.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/commons-fileupload/commons-fileupload/1.4/bd6061c92eaa54a63d35acc4f36182893a679cef/commons-fileupload-1.4-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-client/9.2.28.v20190418/8d1d25b81c5ddf5a5afb37ef2f8f650b9c841fcc/jetty-client-9.2.28.v20190418-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-client/9.2.28.v20190418/864784901eafcf4103cb251430d246433e5d139c/jetty-client-9.2.28.v20190418.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-client/9.2.28.v20190418/1da028aa05d8785b39a827deb15cc5e0e0969182/jetty-client-9.2.28.v20190418-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-http/9.2.28.v20190418/802d9a5b726afd3588117df0fc60d1c2c065cc0f/jetty-http-9.2.28.v20190418-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-http/9.2.28.v20190418/9fdb0a88275bdb191fa8399f23fc6b39fafb7348/jetty-http-9.2.28.v20190418.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-http/9.2.28.v20190418/dd26c2aea4c6b5f26f7eb1637e4a0bf5f2c3855c/jetty-http-9.2.28.v20190418-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/9.2.28.v20190418/f3a7c381e0b9cfd1e415c09bb2a684d27136f1e6/jetty-io-9.2.28.v20190418-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/9.2.28.v20190418/b9219469ee48d03436684890acac89a1053afbcf/jetty-io-9.2.28.v20190418.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/9.2.28.v20190418/56372c8469c61d991cef8680b4c75a2738b6e662/jetty-io-9.2.28.v20190418-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-continuation/9.2.28.v20190418/8ce6de9d9affc451f7c8634b157d448f75dd95db/jetty-continuation-9.2.28.v20190418-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-continuation/9.2.28.v20190418/bd036f3f1096dfa7ea0531322fd0e41263f4cc15/jetty-continuation-9.2.28.v20190418.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-continuation/9.2.28.v20190418/59558271b1e361c931e9cd46d81e290285a13afd/jetty-continuation-9.2.28.v20190418-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-xml/9.2.28.v20190418/57c4a69bf82dc2c6624ff1f8f45546b58e7e05a8/jetty-xml-9.2.28.v20190418-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-xml/9.2.28.v20190418/5552b92afb37b95b420d1d9c448ab016693b491d/jetty-xml-9.2.28.v20190418.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-xml/9.2.28.v20190418/9f3a00cf46efa8c213a6e69b754c05721e31b19b/jetty-xml-9.2.28.v20190418-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-util/9.2.28.v20190418/25df1fb0b8bf0c7152960d1ac40f2644f8125e9b/jetty-util-9.2.28.v20190418-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-util/9.2.28.v20190418/2a09eb47f8bae94a527f5c66320b1ede60885f15/jetty-util-9.2.28.v20190418.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-util/9.2.28.v20190418/c71a47e54414a20e6058b935e00bd054240a7e0b/jetty-util-9.2.28.v20190418-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.13/d6e6365dac44108fb2cc0684daea0d40bc6609f5/httpcore-4.4.13-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.13/853b96d3afbb7bf8cc303fe27ee96836a10c1834/httpcore-4.4.13.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.13/3a29e9db25fb24a7f8beeccbf8b2876d26c31c99/httpcore-4.4.13-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/83033ee697035dfb9ce3503e1ac0c5a33021e503/commons-logging-1.2-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.11/bce4ba84fd527950e35040b20a991c63e90e2850/commons-codec-1.11-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.11/3acb4705652e16236558f0f4f2192cc33c3bd189/commons-codec-1.11.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.11/978245f8bd06d70703fa3180554c62891500f97a/commons-codec-1.11-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/net.minidev/json-smart/2.3/36c61f1b839bde5b284528cb76f6811efbe0f08b/json-smart-2.3-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/net.minidev/json-smart/2.3/7396407491352ce4fa30de92efb158adb76b5b/json-smart-2.3.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/net.minidev/json-smart/2.3/fa8ba51c389a08f55ce3efd3fd92226dacd87355/json-smart-2.3-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/org.antlr/antlr4-runtime/4.7.1/1e68e18aa14f3229b95820d354a594846134af38/antlr4-runtime-4.7.1-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/org.antlr/antlr4-runtime/4.7.1/946f8aa9daa917dd81a8b818111bec7e288f821a/antlr4-runtime-4.7.1.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/org.antlr/antlr4-runtime/4.7.1/a8723077135c6b5bf84fdf6a5a0f6d6fbac1e3bb/antlr4-runtime-4.7.1-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.2/8d6b98f21262995489a8418fff8da992d7e25c1e/commons-io-2.2-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.2/83b5b8a7ba1c08f9e8c8ff2373724e33d3c1e22a/commons-io-2.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.2/92da9b7269652c310afc2a2458e72e5a1aa4a54a/commons-io-2.2-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/home/jason/.gradle/caches/modules-2/files-2.1/net.minidev/accessors-smart/1.2/c837e3903ff07b478041f761915d764b98e71e05/accessors-smart-1.2-sources.jar" kind="lib" path="/home/jason/.gradle/caches/modules-2/files-2.1/net.minidev/accessors-smart/1.2/c592b500269bfde36096641b01238a8350f8aa31/accessors-smart-1.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/home/jason/.gradle/caches/modules-2/files-2.1/net.minidev/accessors-smart/1.2/7d0aacafb464959be4dec1736ae50c3992a9d944/accessors-smart-1.2-javadoc.jar!/"/>
+			<attribute name="gradle_used_by_scope" value="test"/>
+			<attribute name="test" value="true"/>
+			<attribute name="org.eclipse.jst.component.nondependency" value=""/>
+		</attributes>
+	</classpathentry>
+</classpath>
